@@ -7,7 +7,7 @@ public class LocationStats {
 
     private String country;
     private String province;
-    private int preLatestTotalCases;
+    private int NewCases;
     private int latestTotalCases;
 
 
@@ -27,12 +27,12 @@ public class LocationStats {
         this.latestTotalCases = latestTotalCases;
     }
 
-    public int getPreLatestTotalCases() {
-        return preLatestTotalCases;
+    public int getNewCases() {
+        return NewCases;
     }
 
-    public void setPreLatestTotalCases(int preLatestTotalCases) {
-        this.preLatestTotalCases = preLatestTotalCases;
+    public void setNewCases(int preLatestTotalCases) {
+        this.NewCases = preLatestTotalCases;
     }
 
     public String getProvince() {
@@ -48,7 +48,7 @@ public class LocationStats {
         return "LocationStats{" +
                 "country='" + country + '\'' +
                 ", province='" + province + '\'' +
-                ", preLatestTotalCases=" + preLatestTotalCases +
+                ", preLatestTotalCases=" + NewCases +
                 ", latestTotalCases=" + latestTotalCases +
                 '}';
     }
