@@ -11,7 +11,7 @@ Then, run it. The application is a simple static web page with information from 
 - Java 12+
 - Spring 2.2.6.RELEASE
 - Maven 3.1+
-- Commons CSV 1.8 - CSV document parser 
+- Commons CSV 1.8 - CSV document parser <br/><br/>
 Use them to avoid build errors.
 ## Why?
 You will gain knowledge - you will not be lost.
