@@ -1,2 +1,3 @@
-# Coronavirus-tracker
-Представляю код, который парсит информацию о заболевших Corona- вируом с CSV документа и выдаёт её на HTML страничке.
+# Coronavirus-tracker <br/>
+This program provides information on coronavirus cases around the world.
+## Usage
