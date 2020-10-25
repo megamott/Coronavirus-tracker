@@ -1,5 +1,6 @@
 # Coronavirus-tracker <br/>
 This program provides information on coronavirus cases around the world.
+![screen](https://user-images.githubusercontent.com/54303323/97117982-708ee900-1718-11eb-81c8-3ed97684097d.png)
 ## Usage
 All you need to do is build the project with Maven:
 ```
